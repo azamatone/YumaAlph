@@ -8,4 +8,10 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="Theme.Default" parent="@android:style/Theme"></style>
+    <style name="Theme.NoTitle" parent="@android:style/Theme.Light.NoTitleBar.Fullscreen"></style>
+    <style name="Theme.FullScreen" parent="@android:style/Theme.NoTitleBar.Fullscreen"></style>
+
 </resources>
+
+
